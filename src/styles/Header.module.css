@@ -1,0 +1,56 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.75);
+    padding: 10px;
+    border-bottom: lightgray solid 1px;
+}
+
+.leftSection {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.companyName {
+    font-size: 18px;
+    color: #000;
+    margin: 0;
+}
+
+.rightSection {
+    display: flex;
+    align-items: center;
+}
+
+.searchInput {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.userIcon {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.username {
+    color: #000;
+    margin-right: 10px;
+}
+
+.cartImage {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.cartName {
+    color: #000;
+}
